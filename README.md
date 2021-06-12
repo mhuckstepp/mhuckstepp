@@ -1,6 +1,6 @@
 ### Hello
 
-I'm a Full-Stack Developer in San Francisco, CA with 7+ years experience working for software companies.
+I'm a Full-Stack Developer in San Francisco with 7+ years of experience working for software companies.
 
 I am strong in JavaScript, React, Redux, Node, Express, Jest,  PostgreSQL, RESTful APIs, Git, GitHub, Formik, HTML/CSS.
 
