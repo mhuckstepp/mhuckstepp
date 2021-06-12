@@ -6,4 +6,4 @@ I am strong in JavaScript, React, Redux, Node, Express, Jest,  PostgreSQL, RESTf
 
 I have experience with Python, Cypress, SQLite, Cheerio, Cron, SQL, MaterialUI, Tailwind, Bootstrap, lowdb, Knex, Heroku.
 
-📫 Reach me: mhuckstepp@gmail.com
+📫 Contact me: mhuckstepp@gmail.com
