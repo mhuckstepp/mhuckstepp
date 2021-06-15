@@ -8,4 +8,4 @@ I have experience with Python, Cypress, SQLite, Cheerio, Cron, SQL, MaterialUI, 
 
 Currently learning: Next.js and TypeScript
 
-📫 Contact me: mhuckstepp@gmail.com
+📫  Contact me: mhuckstepp@gmail.com
