@@ -1,11 +1,9 @@
 ### Hello
 
-I'm a Full-Stack Developer in San Francisco with 7+ years of experience working for software companies in the Robotics and Industrial IoT industries.
+I'm a Full-Stack Developer located in San Francisco.
 
-I am strong in JavaScript, React, Redux, Node, Express, Jest, PostgreSQL, RESTful APIs, Git, GitHub, HTML/CSS.
+I am strong in JavaScript, React, React Native, Redux, Node, Express, Jest, PostgreSQL, MongoDB.
 
-I have experience with TypeScript, Python, SQL, Cypress, SQLite, Cron, Formik, MaterialUI, Tailwind, Bootstrap, lowdb, Knex, Heroku.
-
-Currently learning: Automated Testing, AWS, Next.js
+I have experience with TypeScript, Python, SQL, Cypress, SQLite, Cron, Formik, MaterialUI, Tailwind, Heroku, Bugsnag.
 
 📫  Contact me: mhuckstepp@gmail.com
